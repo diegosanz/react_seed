@@ -1,6 +1,6 @@
-# Diego Sanz React Seed
+# Diego React Seed
 
-== Warning! Work in progress! ==
+> **/!\ Warning! Work in progress!**
 
 This is a seed to create proyects with React and Webpack.
 
