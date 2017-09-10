@@ -1,6 +1,6 @@
 {
-	"name" : "React seed",
-	"version" : "0.1",
+	"name" : "react_seed",
+	"version" : "0.1.0",
 	"description" : "My personal React seed",
 	"author": "Diego Sanz",
 	"main" : "src/index.js",
